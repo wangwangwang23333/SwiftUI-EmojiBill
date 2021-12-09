@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "FloatingButton",
+        "repositoryURL": "https://github.com/exyte/FloatingButton",
+        "state": {
+          "branch": "master",
+          "revision": "11502f58298943cd3c25be13c0149a79774dac0a",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
